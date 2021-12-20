@@ -1,6 +1,6 @@
 ### Hi there, I'm Son 👋 
 
-## I'm a Information Technology Student, Developer and Soccer Player!!
+## I'm a Information Technology Student and Software Developer !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
