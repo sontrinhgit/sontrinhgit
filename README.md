@@ -39,6 +39,10 @@
 
 [Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sontrinhgit)
 
+---  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sontrinhgit)](https://github.com/sontrinhgit/github-readme-stats)
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
