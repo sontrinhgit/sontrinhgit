@@ -1,4 +1,4 @@
-### Hi there, I'm Son Trinh 👋 
+### Hi there, I'm Son 👋 
 
 ## I'm a Information Technology Student, Developer and Soccer Player!!
 
