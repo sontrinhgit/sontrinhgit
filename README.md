@@ -37,7 +37,8 @@
 ---
 
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sontrinhgit)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sontrinhgit&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 ---  
 
