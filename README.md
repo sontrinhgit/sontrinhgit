@@ -2,7 +2,7 @@
 
 ## I'm a Information Technology Student and Software Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and have a big passion for all kinds of sports 
