@@ -1,12 +1,5 @@
 ### Hi there, I'm Son 👋 
 
-## I'm a Information Technology Student and Software Developer !!
-
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music and have a big passion for all kinds of sports 
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
